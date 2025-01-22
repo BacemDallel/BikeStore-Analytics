@@ -59,3 +59,6 @@ I designed a **green-themed dashboard** featuring:
 
 ## Results
 The dashboard provides a clear and interactive overview of sales performance, customer demographics, and product trends. It allows stakeholders to easily explore total revenue, analyze performance by different categories, brands, and states, and identify top customers and sales reps.
+
+## Dashboard Preview  
+![BikeStore-Analytics](./images/Dashboard_BikeShops.png
