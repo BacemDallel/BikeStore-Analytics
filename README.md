@@ -1,4 +1,4 @@
-# BikeStore Analytics
+# Bike Store Analytics
 
 This project involves analyzing sales data from the "BikeStore" database, which includes 9 tables: **categories**, **brands**, **products**, **customers**, **stores**, **staffs**, **orders**, **order_items**, and **stocks**.
 
