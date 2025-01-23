@@ -56,6 +56,7 @@ I designed a **green-themed dashboard** featuring:
 ## Tools Used
 - **SQL Server** for data querying.
 - **Excel** for data connection, pivot tables, charts, and dashboard creation.
+- **Tableau** Created a responsive, visually appealing dashboard for presenting data insights effectively.
 
 ## Results
 The dashboard provides a clear and interactive overview of sales performance, customer demographics, and product trends. It allows stakeholders to easily explore total revenue, analyze performance by different categories, brands, and states, and identify top customers and sales reps.
