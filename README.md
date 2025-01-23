@@ -62,3 +62,6 @@ The dashboard provides a clear and interactive overview of sales performance, cu
 
 ## Dashboard Preview  
 ![BikeStore-Analytics](./Dashboard_BikeShops.png)
+![BikeStore-Analytics](./Dashboard_BikeShops_2.png)
+![BikeStore-Analytics](./Tableau.png)
+
